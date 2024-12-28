@@ -1,7 +1,7 @@
 # rust_cpp_dlopen_crash_bug
 
 ## Usage
-1. for **x86-linux platform**
+### 1. for **x86-linux platform**
 ```shell
 sh make-dude-lnx.sh
 ```
@@ -11,7 +11,8 @@ then just run
 ```
 
 
-2. for **android platfrom**
+### 2. for **android platfrom**
+
 download ndk first
 [ndk-r25c](https://dl.google.com/android/repository/android-ndk-r25c-linux.zip)
 
