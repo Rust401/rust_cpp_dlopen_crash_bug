@@ -24,8 +24,7 @@ configure path
 ```
 export NDK=/path/to/your/ndk
 ```
-
-
+then build
 ```shell
 sh make-dude-an.sh
 ```
