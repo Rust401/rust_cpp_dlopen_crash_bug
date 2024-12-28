@@ -12,6 +12,20 @@ then just run
 
 
 2. for **android platfrom**
+download ndk first
+[ndk-r25c](https://dl.google.com/android/repository/android-ndk-r25c-linux.zip)
+
+unzip to some path
+```
+unzip android-ndk-r25c-linux.zip
+```
+
+configure path
+```
+export NDK=/path/to/your/ndk
+```
+
+
 ```shell
 sh make-dude-an.sh
 ```
