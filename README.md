@@ -1,13 +1,13 @@
 # rust_cpp_dlopen_crash_bug
 
 ## Usage
-### 1. for **x86-linux platform**
+### 1. for **linux-arm64 platform**
 ```shell
-sh make-dude-lnx.sh
+sh make-lnx.sh
 ```
 then just run
 ```
-./test_dlopen
+./test
 ```
 
 
